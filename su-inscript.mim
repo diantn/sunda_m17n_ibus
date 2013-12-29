@@ -21,11 +21,11 @@
 ;; Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
 ;; Boston, MA 02110-1301, USA.
 
-(input-method su inscript)
+(input-method su Sundanese_inscript)
 
 (description "Sundanese inscript input method with Latin keyboard layout")
 
-(title "ᮞᮥᮔ᮪ᮓ (inscript)")
+(title "Sundanese (inscript)")
 
 (map
 	(starter

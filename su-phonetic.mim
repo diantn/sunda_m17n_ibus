@@ -21,11 +21,11 @@
 ;; Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
 ;; Boston, MA 02110-1301, USA.
 
-(input-method su phonetic)
+(input-method su Sundanese_phonetic)
 
 (description "Sundanese phonetic input method with Latin keyboard layout")
 
-(title "ᮞᮥᮔ᮪ᮓ")
+(title "Sundanese (phonetic)")
 
 (map
 	(starter
